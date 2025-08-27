@@ -516,6 +516,10 @@ code {
     background: linear-gradient(135deg, #000000 0%, #141414 100%);
 }
 
+#e115 a {
+    background: black;
+}
+
 .appName {
     font-size: 1.4rem;
     color: #fff;
